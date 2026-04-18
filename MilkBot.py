@@ -2,7 +2,7 @@ import re
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
 
-TOKEN = "8588283499:AAHPowTEfDq6StuBnzEGLbvn4NtSNrgJvDc"
+TOKEN = "8588283499:AAFhoMhYzzrS9VQo6DhQeElnsMgBoZgT-Jw"
 
 
 # клавиатура
